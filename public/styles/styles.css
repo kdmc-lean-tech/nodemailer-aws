@@ -1,0 +1,9 @@
+.center {
+  text-align: center;
+}
+
+.title {
+  background-color: green;
+  color: white;
+  padding: 15px;
+}
